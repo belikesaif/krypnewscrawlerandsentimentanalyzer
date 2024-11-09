@@ -10,4 +10,4 @@ jobs:
         uses: actions/checkout@v2
       - name: Trigger Vercel Function
         run: |
-          curl -X POST https://<your-vercel-url>/api/run_script
+          curl -X POST https://krypnewscrawlerandsentimentanalyzer/run_script
