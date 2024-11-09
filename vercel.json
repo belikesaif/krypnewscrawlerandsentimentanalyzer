@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "run_script.py": {
-      "runtime": "python3.9"
-    }
-  }
-}
